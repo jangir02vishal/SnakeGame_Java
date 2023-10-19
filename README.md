@@ -41,8 +41,10 @@ To run this project on your local machine, follow these steps:
 The game should launch, and you can start playing.
 Have fun and enjoy the Snake game!
 
-#### Play Screen - ####
-![LivePlay](https://github.com/jangir02vishal/SnakeGame/assets/136950731/ba80f8fe-3199-4476-8b94-b903948f32e5)
+#### Play Screen & Game Over- ####
+<div style="display: flex;">
+<img src="https://github.com/jangir02vishal/SnakeGame/assets/136950731/ba80f8fe-3199-4476-8b94-b903948f32e5" alt="Image Description" width="340" height="340">
+<img src="https://github.com/jangir02vishal/SnakeGame/assets/136950731/50f830c1-5661-4031-a624-2d4cdbb76940" alt="Image Description" width="340" height="340">
+</div>
 
-#### Game Over - ####
-![Gameover](https://github.com/jangir02vishal/SnakeGame/assets/136950731/50f830c1-5661-4031-a624-2d4cdbb76940)
+
